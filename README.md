@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Dzulfikar+Fathinn)](https://git.io/typing-svg)
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=480&lines=Hi!%2C+I'am+Dzulfikar+Fathin)](https://git.io/typing-svg)
+
 - 🎓 A dedicated Informatics student
 - 👨‍💻 Exploring the realm of web development
 - 🌐 Passionate about crafting engaging online experiences
@@ -17,7 +17,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql,bootstrap,tailwind,nodejs,expressjs,flutter&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,expressjs&perline=5" />
   </a>
 </p>
 <br>
@@ -25,7 +25,7 @@
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,xd,ai,figma,&perline=13" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,&perline=13" />
   </a>
 </p>
 
