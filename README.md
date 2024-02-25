@@ -17,7 +17,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,expressjs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,nodejs,expressjs,git,nextjs,postgres,react,sequelize&perline=5" />
   </a>
 </p>
 <br>
