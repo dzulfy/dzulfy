@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=480&lines=Hi!%2C+I'am+Dzulfikar+Fathin)](https://git.io/typing-svg)
 
-- 🎓 A dedicated Informatics student
-- 👨‍💻 Exploring the realm of web development
-- 🌐 Passionate about crafting engaging online experiences
-- 💡 Committed to innovative solutions that add value
-- ✨ Let's create together in the digital world!
+- 🚀 Enthusiastic Informatics student on a learning journey
+- 💻 Venturing into the vast world of web development
+- 🌍 Devoted to crafting captivating online experiences
+- 🔍 Exploring innovative solutions that bring value
+- ✨ Join me in shaping the digital realm together!
 
 ### Connect with Me:
 
